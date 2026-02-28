@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": 1,
+    "title": "Nuevo Evento de Matemáticas",
+    "content": "Se abre inscripción para el curso avanzado de cálculo.",
+    "date": "2026-03-01",
+    "type": "evento"
+  },
+  {
+    "id": 2,
+    "title": "Aviso de Mantenimiento",
+    "content": "El sistema estará en mantenimiento el próximo lunes.",
+    "date": "2026-03-02",
+    "type": "aviso"
+  },
+  {
+    "id": 3,
+    "title": "Torneo de Gaming",
+    "content": "Participa en el torneo mensual y gana premios exclusivos.",
+    "date": "2026-03-03",
+    "type": "evento"
+  }
+]
