@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Global Tech Summit 2024",
+    "subtitle": "Innovation & Future Tech • May 15",
+    "status": "Upcoming",
+    "image": "https://via.placeholder.com/800x400/135bec/ffffff?text=Tech+Summit"
+  },
+  {
+    "title": "Pro Gaming League Finals",
+    "subtitle": "Live Tournament • Online",
+    "status": "Trending",
+    "image": "https://via.placeholder.com/800x400/9b59b6/ffffff?text=Gaming+League"
+  },
+  {
+    "title": "World History 101",
+    "subtitle": "Score: 92%",
+    "status": "Completed",
+    "image": "https://via.placeholder.com/800x400/3498db/ffffff?text=History+101"
+  }
+]
