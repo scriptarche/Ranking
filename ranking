@@ -1,4 +1,49 @@
 [
+  {
+    "nombreUsuario": "Ethan",
+    "correctas": 42,
+    "incorrectas": 8,
+    "carrera": "Odontología",
+    "grupo": "Grupo E",
+    "avatar": "https://i.pravatar.cc/40?img=5",
+    "Tevent": "Prueba Rápida"
+  },
+  {
+    "nombreUsuario": "Mia",
+    "correctas": 50,
+    "incorrectas": 0,
+    "carrera": "Enfermería",
+    "grupo": "Grupo F",
+    "avatar": "https://i.pravatar.cc/40?img=6",
+    "Tevent": "Examen"
+  },
+  {
+    "nombreUsuario": "Leo",
+    "correctas": 38,
+    "incorrectas": 12,
+    "carrera": "Psicología",
+    "grupo": "Grupo G",
+    "avatar": "https://i.pravatar.cc/40?img=7",
+    "Tevent": "Prueba Rápida"
+  },
+  {
+    "nombreUsuario": "Isabella",
+    "correctas": 44,
+    "incorrectas": 6,
+    "carrera": "Biología",
+    "grupo": "Grupo H",
+    "avatar": "https://i.pravatar.cc/40?img=8",
+    "Tevent": "Examen"
+  },
+  {
+    "nombreUsuario": "Noah",
+    "correctas": 35,
+    "incorrectas": 15,
+    "carrera": "Física",
+    "grupo": "Grupo I",
+    "avatar": "https://i.pravatar.cc/40?img=9",
+    "Tevent": "Prueba Rápida"
+  },
 {
     "nombreUsuario": "Noah",
     "correctas": 35,
