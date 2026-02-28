@@ -7,17 +7,17 @@
   {"id":"e2","category":"academia","name":"Prueba Rápida","duration":30,"icon":"fa-bolt","link":"venta_prueba.html"},
   {"id":"e3","category":"academia","name":"Examen Mensual","duration":120,"icon":"fa-graduation-cap","link":"venta_examen.html"},
   {"id":"e4","category":"libres","name":"Otro Evento","duration":15,"icon":"fa-star","link":"venta_otro.html"},
-  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"}
+  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"},
   {"id":"e4","category":"libres","name":"Otro Evento","duration":15,"icon":"fa-star","link":"venta_otro.html"},
-  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"}
+  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"},
   {"id":"e4","category":"libres","name":"Otro Evento","duration":15,"icon":"fa-star","link":"venta_otro.html"},
-  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"}
+  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"},
   {"id":"e4","category":"libres","name":"Otro Evento","duration":15,"icon":"fa-star","link":"venta_otro.html"},
-  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"}
+  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"},
   {"id":"e4","category":"libres","name":"Otro Evento","duration":15,"icon":"fa-star","link":"venta_otro.html"},
-  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"}
+  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"},
   {"id":"e4","category":"libres","name":"Otro Evento","duration":15,"icon":"fa-star","link":"venta_otro.html"},
-  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"}
+  {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"},
   {"id":"e4","category":"libres","name":"Otro Evento","duration":15,"icon":"fa-star","link":"venta_otro.html"},
   {"id":"e5","category":"gaming","name":"Torneo Gamer","duration":60,"icon":"fa-gamepad","link":"venta_gaming.html"}
 ]
