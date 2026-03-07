@@ -1,22 +1,30 @@
 [
   {
     "game_name": "Warcraft III",
-    "code": "greedisgood"
+    "code": "greedisgood",
+    "hint": "Código de oro para mejorar la economía"
   },
   {
-    "game_name": "The Sims 4",
-    "code": "rosebud"
+    "game_name": "Starcraft",
+    "code": "showmethemoney",
+    "hint": "Código de recursos infinitos"
   },
   {
     "game_name": "GTA San Andreas",
-    "code": "berkeley"
+    "code": "berkeley",
+    "hint": "Código para obtener dinero rápido"
   },
   {
-    "game_name": "Age of Empires II",
-    "code": "rockon"
+    "game_name": "GTA Vice City",
+    "code": "preciousprotection",
+    "hint": "Código para recibir armadura completa"
   },
   {
-    "game_name": "Minecraft",
-    "code": "iamking"
+    "game_name": "Warcraft III",
+    "code": "whosyourdaddy",
+    "hint": "Código para invencibilidad de héroes"
+  },
+  {
+    "time_seconds": 300
   }
 ]
