@@ -1,0 +1,6 @@
+{
+  "columns": 10,
+  "rows": 10,
+  "defaultColor": "#ffffff",
+  "game_duration_seconds": 300
+}
