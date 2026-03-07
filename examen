@@ -1,0 +1,35 @@
+{
+  "titulo": "Examen Mensual de Conocimientos",
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "opciones": ["Madrid", "París", "Berlín", "Roma"],
+      "respuesta_correcta": 1
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuál es 2 + 2?",
+      "opciones": ["3", "4", "5", "6"],
+      "respuesta_correcta": 1
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+      "opciones": ["Venus", "Tierra", "Mercurio", "Marte"],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Quién escribió 'Romeo y Julieta'?",
+      "opciones": ["Miguel de Cervantes", "William Shakespeare", "Gabriel García Márquez", "J.K. Rowling"],
+      "respuesta_correcta": 1
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Qué elemento tiene el símbolo 'O'?",
+      "opciones": ["Oro", "Oxígeno", "Osmio", "Ozono"],
+      "respuesta_correcta": 1
+    }
+  ]
+}
